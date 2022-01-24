@@ -8,11 +8,7 @@ Web đặt vé xem phim sử dụng php và mysql.
 
 ![Screenshot](2.png)
 
-![Screenshot](3.png)
-
 ![Screenshot](4.png)
-
-![Screenshot](5.png)
 
 ![Screenshot](6.png)
 
